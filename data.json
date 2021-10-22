@@ -1,0 +1,126 @@
+{
+    "card":[
+    {
+        "name": "Money Heist",
+        "image": "img/moneyheist.jpg",
+        "category": "tv",
+        "period": "new",
+        "rating": 4.3,
+        "url": "img/movievideo.mp4"
+
+    },
+    {
+        "name": "Vampire Daires",
+        "image": "img/vampiredaires.jpg",
+        "category": "tv",
+        "period":"new",
+        "rating": 4.5
+
+    },
+    {
+        "name": "The Originals",
+        "image": "img/originals.jpg",
+        "category": "tv",
+        "period": "new",
+        "rating": 3.8
+
+    },
+    {
+        "name": "How I met your mother",
+        "image": "img/howimet.jpg",
+        "category": "tv",
+        "period": "new",        
+        "rating": 4.1
+
+    },
+    {
+        "name": "Dark",
+        "image": "img/dark.jpg",
+        "category": "tv",
+        "period": "new",        
+        "rating": 3.5
+
+    },
+    {
+        "name": "You",
+        "image": "img/you.jpg",
+        "category": "tv",
+        "period": "new",        
+        "rating": 2.8
+
+    },
+    {
+        "name": "Squid Game",
+        "image": "img/squid.jpg",
+        "category": "tv",
+        "period": "new",        
+        "rating": 4.3
+
+    },
+    {
+        "name": "Little Things",
+        "image": "img/littlethings.jpg",
+        "category": "tv",
+        "period": "new",        
+        "rating": 4.0
+
+    },
+    {
+        "name": "Stranger Things",
+        "image": "img/strangerthings.jpg",
+        "category": "tv",
+        "period": "new",        
+        "rating": 4.3
+
+    },
+    {
+        "name": "Peaky Blinders",
+        "image": "img/peakyblinders.jpg",
+        "category": "tv",
+        "period": "new",        
+        "rating": 4.3
+
+    },
+    {
+        "name": "Never Have I Ever",
+        "image": "img/neverhavei.jpg",
+        "category": "tv",
+        "period": "new",        
+        "rating": 4.3
+
+    },
+    {
+        "name": "Dear Zindagi",
+        "image": "img/dear.jpg",
+        "category": "movie",
+        "period": "new",        
+        "rating": 4.3
+
+    },
+    {
+        "name": "Squid Game",
+        "image": "img/img1.jpg",
+        "category": "movie",
+        "period": "new",        
+        "rating": 4.3
+
+    },
+    {
+        "name": "You",
+        "image": "img/img1.jpg",
+        "category": "movie",
+        "period": "old",        
+        "rating": 4.0
+
+    },
+    {
+        "name": "Barfi",
+        "image": "img/barfi.jpg",
+        "category": "movie",
+        "period": "new",        
+        "rating": 4.3
+
+    }
+    
+
+    ]}
